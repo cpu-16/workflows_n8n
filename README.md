@@ -16,11 +16,8 @@ En el documento explicamos:
 
 ---
 
-## 📄 Lee el artículo completo
-
-➡️ **[Proyecto_Final_Ciber3_Gilberto_Muriel_Agustín_Abner.pdf](./Proyecto_Final_Ciber3_Gilberto_Muriel_Agustín_Abner.pdf)**
-
-*(Haz clic para abrirlo en GitHub. Si el navegador no lo previsualiza, pulsa “Download” para bajarlo.)*
+📄 **Lee el artículo completo:**  
+[Proyecto Final (PDF)](https://github.com/cpu-16/workflows_n8n/blob/main/Proyecto_Final_IA_Gilberto_Ramos_Muriel_Jaramillo_Agust%C3%ADn_S%C3%A1nchez_Abner_Ballesteros.pdf)
 
 ---
 
