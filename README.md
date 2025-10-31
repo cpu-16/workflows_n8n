@@ -25,8 +25,8 @@ En el documento explicamos:
 
 - Gilberto Ramos  
 - Muriel Jaramillo  
-- Agustín Sánchez  
-- Abner Ballesteros
+- Agustín Sánchez
+- Edmanuel Cruz
 
 ---
 
